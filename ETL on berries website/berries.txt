@@ -1,1 +1,1 @@
-https://www.berries.com/blog/positive-quotes
+website: https://www.berries.com/blog/positive-quotes
